@@ -1,0 +1,12 @@
+# Node.js
+server/node_modules/
+server/package-lock.json
+
+# Python cache
+agent/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# SQLite DB
+agent/outbox.db
